@@ -1,2 +1,0 @@
-"new line in test2.txt"
-edit test2 in branch master
